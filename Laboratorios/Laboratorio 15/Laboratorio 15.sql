@@ -1,0 +1,3 @@
+-- Crear la base de datos del diagrama Mails.png
+-- Ingresar registros de prueba.
+-- Realizar consultas de prueba.

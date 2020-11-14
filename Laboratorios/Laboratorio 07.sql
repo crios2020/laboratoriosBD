@@ -1,0 +1,14 @@
+-- Usando la base de datos negocio tabla facturas.
+-- 1- 	Informar total facturado (suma de monto) en cada día.
+-- 2-	Informar total facturado (suma de monto) en cada mes.
+-- 3-	Informar total facturado (suma de monto) y cuantas facturas (count(*)) se realizaron en cada año.
+
+-- Usando la base de datos articulos.
+-- 1- Informar cantidad de televisores.
+-- 2- Informar cantidad de televisores segun marca.
+-- 3- Informar cual es el televisor más barato.
+-- 4- Aumentar un 15% los articulos de la marca 'LG'.
+-- 5- Bajar un 4% los aires acondicionados.
+-- 6- Listar los articulos ordenaros por marca,descripción,nombre,precio.
+-- 7- Cantidad de articulos según marca y descripción.
+-- 8- Mostrar el producto mas caro de la marca 'LG'
